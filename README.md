@@ -2,7 +2,7 @@
 <hr>
 🙏 Buscando conhecimento para me tornar um programador profissional
 <hr>
-🧑🏽‍💻 No momento estudando PHP/LARAVEL
+🧑🏽‍💻 No momento estudando LARAVEL
 <hr>
 🆘 Transição de carreira
 <hr>
