@@ -16,6 +16,14 @@
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/974428150371069952" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/974428150371069952" target="_blank" rel="noreferrer"><img 
+                                                                                                             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  
+<a href="https://github.com/Matheus-cavalcant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  
+<a href="https://www.linkedin.com/in/matheus-cavalcante-122a10251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
+  
+  
+  
 
 
